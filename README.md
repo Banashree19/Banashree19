@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banashree</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m a React Developer
 
 - 🌱 I’m currently learning **NextJS**
 
