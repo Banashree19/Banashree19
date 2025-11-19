@@ -3,7 +3,7 @@
 
 - 🔭 I’m a React Developer
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://banashree19.github.io/Portfolio-Website/](https://banashree19.github.io/Portfolio-Website/)
 
